@@ -6,7 +6,7 @@
 </h3>
 
 <h3>
-  Goals:
+  Steps:
 </h3>
 
 <p>
